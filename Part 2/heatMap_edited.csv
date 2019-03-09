@@ -1,0 +1,919 @@
+"","STATENAME","URL","WEBSITE","ACTIVITY.LEVEL","ACTIVITY.LEVEL.LABEL","WEEKEND","WEEK","SEASON","integerActivityLevel"
+"1","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 2","Minimal","Oct-06-2018",40,"2018-19",2
+"2","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"3","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"4","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"5","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"6","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"7","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"8","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"9","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 2","Minimal","Oct-06-2018",40,"2018-19",2
+"10","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"11","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 3","Minimal","Oct-06-2018",40,"2018-19",3
+"12","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"13","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"14","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"15","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"16","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"17","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"18","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"19","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 3","Minimal","Oct-06-2018",40,"2018-19",3
+"20","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"21","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"22","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"23","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"24","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"25","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"26","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"27","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"28","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"29","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"30","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"31","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 2","Minimal","Oct-06-2018",40,"2018-19",2
+"32","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"33","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"34","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"35","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"36","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"37","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"38","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"39","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"40","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"41","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"42","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"43","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"44","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"45","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"46","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"47","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 2","Minimal","Oct-06-2018",40,"2018-19",2
+"48","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"49","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Oct-06-2018",40,"2018-19",1
+"50","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Oct-06-2018",40,"2018-19",2
+"51","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 2","Minimal","Oct-06-2018",40,"2018-19",2
+"52","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 2","Minimal","Oct-06-2018",40,"2018-19",2
+"53","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 6","Moderate","Oct-06-2018",40,"2018-19",6
+"54","Virgin Islands","http://doh.vi.gov/","Influenza","Level 3","Minimal","Oct-06-2018",40,"2018-19",3
+"55","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 2","Minimal","Oct-13-2018",41,"2018-19",2
+"56","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"57","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"58","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"59","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"60","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 2","Minimal","Oct-13-2018",41,"2018-19",2
+"61","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"62","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"63","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 2","Minimal","Oct-13-2018",41,"2018-19",2
+"64","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"65","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 3","Minimal","Oct-13-2018",41,"2018-19",3
+"66","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"67","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"68","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"69","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"70","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"71","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"72","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"73","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 3","Minimal","Oct-13-2018",41,"2018-19",3
+"74","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"75","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"76","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"77","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"78","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"79","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"80","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"81","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"82","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"83","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"84","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"85","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 2","Minimal","Oct-13-2018",41,"2018-19",2
+"86","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"87","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"88","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"89","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"90","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"91","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"92","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"93","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"94","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"95","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"96","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"97","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"98","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"99","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"100","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"101","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 2","Minimal","Oct-13-2018",41,"2018-19",2
+"102","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"103","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"104","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Oct-13-2018",41,"2018-19",2
+"105","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"106","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 2","Minimal","Oct-13-2018",41,"2018-19",2
+"107","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 4","Low","Oct-13-2018",41,"2018-19",4
+"108","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Oct-13-2018",41,"2018-19",1
+"109","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 2","Minimal","Oct-20-2018",42,"2018-19",2
+"110","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"111","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"112","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"113","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"114","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 3","Minimal","Oct-20-2018",42,"2018-19",3
+"115","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"116","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"117","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 2","Minimal","Oct-20-2018",42,"2018-19",2
+"118","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"119","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 4","Low","Oct-20-2018",42,"2018-19",4
+"120","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"121","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"122","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"123","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"124","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"125","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"126","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"127","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 4","Low","Oct-20-2018",42,"2018-19",4
+"128","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"129","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"130","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 2","Minimal","Oct-20-2018",42,"2018-19",2
+"131","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"132","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"133","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"134","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"135","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"136","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"137","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"138","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"139","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 2","Minimal","Oct-20-2018",42,"2018-19",2
+"140","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"141","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"142","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"143","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"144","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"145","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"146","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"147","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"148","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"149","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"150","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"151","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"152","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"153","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"154","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"155","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 3","Minimal","Oct-20-2018",42,"2018-19",3
+"156","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"157","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"158","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Oct-20-2018",42,"2018-19",2
+"159","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"160","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 3","Minimal","Oct-20-2018",42,"2018-19",3
+"161","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 4","Low","Oct-20-2018",42,"2018-19",4
+"162","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Oct-20-2018",42,"2018-19",1
+"163","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 3","Minimal","Oct-27-2018",43,"2018-19",3
+"164","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"165","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"166","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"167","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"168","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"169","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"170","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"171","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"172","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"173","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 5","Low","Oct-27-2018",43,"2018-19",5
+"174","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"175","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"176","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"177","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"178","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"179","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"180","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"181","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 5","Low","Oct-27-2018",43,"2018-19",5
+"182","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"183","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"184","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"185","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"186","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"187","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"188","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"189","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"190","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"191","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"192","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"193","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 3","Minimal","Oct-27-2018",43,"2018-19",3
+"194","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"195","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"196","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"197","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"198","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"199","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"200","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"201","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"202","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"203","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 3","Minimal","Oct-27-2018",43,"2018-19",3
+"204","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"205","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"206","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"207","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"208","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"209","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 3","Minimal","Oct-27-2018",43,"2018-19",3
+"210","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"211","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"212","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"213","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Oct-27-2018",43,"2018-19",1
+"214","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 4","Low","Oct-27-2018",43,"2018-19",4
+"215","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"216","Virgin Islands","http://doh.vi.gov/","Influenza","Level 2","Minimal","Oct-27-2018",43,"2018-19",2
+"217","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 4","Low","Nov-03-2018",44,"2018-19",4
+"218","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"219","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"220","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"221","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"222","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 3","Minimal","Nov-03-2018",44,"2018-19",3
+"223","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"224","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"225","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"226","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"227","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 6","Moderate","Nov-03-2018",44,"2018-19",6
+"228","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"229","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"230","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"231","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"232","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"233","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"234","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"235","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 5","Low","Nov-03-2018",44,"2018-19",5
+"236","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"237","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"238","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"239","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"240","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 3","Minimal","Nov-03-2018",44,"2018-19",3
+"241","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"242","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"243","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"244","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"245","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"246","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"247","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 3","Minimal","Nov-03-2018",44,"2018-19",3
+"248","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"249","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"250","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"251","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"252","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"253","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 3","Minimal","Nov-03-2018",44,"2018-19",3
+"254","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"255","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"256","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"257","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 3","Minimal","Nov-03-2018",44,"2018-19",3
+"258","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"259","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"260","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"261","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"262","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"263","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 3","Minimal","Nov-03-2018",44,"2018-19",3
+"264","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"265","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"266","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"267","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"268","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 3","Minimal","Nov-03-2018",44,"2018-19",3
+"269","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 1","Minimal","Nov-03-2018",44,"2018-19",1
+"270","Virgin Islands","http://doh.vi.gov/","Influenza","Level 2","Minimal","Nov-03-2018",44,"2018-19",2
+"271","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 5","Low","Nov-10-2018",45,"2018-19",5
+"272","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"273","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"274","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"275","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"276","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 3","Minimal","Nov-10-2018",45,"2018-19",3
+"277","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"278","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"279","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"280","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"281","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 6","Moderate","Nov-10-2018",45,"2018-19",6
+"282","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"283","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"284","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"285","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"286","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"287","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"288","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"289","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 6","Moderate","Nov-10-2018",45,"2018-19",6
+"290","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"291","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"292","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"293","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"294","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"295","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 3","Minimal","Nov-10-2018",45,"2018-19",3
+"296","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"297","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"298","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"299","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"300","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"301","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 3","Minimal","Nov-10-2018",45,"2018-19",3
+"302","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"303","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"304","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 3","Minimal","Nov-10-2018",45,"2018-19",3
+"305","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"306","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"307","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 3","Minimal","Nov-10-2018",45,"2018-19",3
+"308","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"309","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"310","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"311","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 4","Low","Nov-10-2018",45,"2018-19",4
+"312","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"313","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"314","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"315","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 3","Minimal","Nov-10-2018",45,"2018-19",3
+"316","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"317","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 4","Low","Nov-10-2018",45,"2018-19",4
+"318","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"319","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"320","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Nov-10-2018",45,"2018-19",2
+"321","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"322","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 4","Low","Nov-10-2018",45,"2018-19",4
+"323","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 3","Minimal","Nov-10-2018",45,"2018-19",3
+"324","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Nov-10-2018",45,"2018-19",1
+"325","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 5","Low","Nov-17-2018",46,"2018-19",5
+"326","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"327","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 3","Minimal","Nov-17-2018",46,"2018-19",3
+"328","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 3","Minimal","Nov-17-2018",46,"2018-19",3
+"329","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"330","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 4","Low","Nov-17-2018",46,"2018-19",4
+"331","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"332","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"333","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 3","Minimal","Nov-17-2018",46,"2018-19",3
+"334","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"335","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 7","Moderate","Nov-17-2018",46,"2018-19",7
+"336","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"337","Idaho","http://flu.idaho.gov","Influenza","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"338","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"339","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"340","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"341","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"342","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 3","Minimal","Nov-17-2018",46,"2018-19",3
+"343","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 8","High","Nov-17-2018",46,"2018-19",8
+"344","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"345","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"346","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"347","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"348","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"349","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 4","Low","Nov-17-2018",46,"2018-19",4
+"350","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"351","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"352","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"353","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"354","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"355","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 4","Low","Nov-17-2018",46,"2018-19",4
+"356","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"357","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"358","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 3","Minimal","Nov-17-2018",46,"2018-19",3
+"359","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"360","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"361","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 6","Moderate","Nov-17-2018",46,"2018-19",6
+"362","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"363","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"364","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"365","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 4","Low","Nov-17-2018",46,"2018-19",4
+"366","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"367","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"368","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 3","Minimal","Nov-17-2018",46,"2018-19",3
+"369","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 3","Minimal","Nov-17-2018",46,"2018-19",3
+"370","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"371","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 4","Low","Nov-17-2018",46,"2018-19",4
+"372","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"373","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"374","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Nov-17-2018",46,"2018-19",2
+"375","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"376","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 4","Low","Nov-17-2018",46,"2018-19",4
+"377","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 4","Low","Nov-17-2018",46,"2018-19",4
+"378","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Nov-17-2018",46,"2018-19",1
+"379","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 6","Moderate","Nov-24-2018",47,"2018-19",6
+"380","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"381","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 4","Low","Nov-24-2018",47,"2018-19",4
+"382","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 4","Low","Nov-24-2018",47,"2018-19",4
+"383","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"384","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 4","Low","Nov-24-2018",47,"2018-19",4
+"385","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"386","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"387","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 3","Minimal","Nov-24-2018",47,"2018-19",3
+"388","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"389","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 9","High","Nov-24-2018",47,"2018-19",9
+"390","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"391","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"392","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"393","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"394","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"395","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"396","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 3","Minimal","Nov-24-2018",47,"2018-19",3
+"397","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 10","High","Nov-24-2018",47,"2018-19",10
+"398","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"399","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"400","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 3","Minimal","Nov-24-2018",47,"2018-19",3
+"401","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"402","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"403","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 4","Low","Nov-24-2018",47,"2018-19",4
+"404","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"405","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"406","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"407","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"408","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"409","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 5","Low","Nov-24-2018",47,"2018-19",5
+"410","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"411","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"412","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 3","Minimal","Nov-24-2018",47,"2018-19",3
+"413","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"414","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"415","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 7","Moderate","Nov-24-2018",47,"2018-19",7
+"416","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 2","Minimal","Nov-24-2018",47,"2018-19",2
+"417","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 3","Minimal","Nov-24-2018",47,"2018-19",3
+"418","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"419","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 5","Low","Nov-24-2018",47,"2018-19",5
+"420","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"421","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"422","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 3","Minimal","Nov-24-2018",47,"2018-19",3
+"423","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 5","Low","Nov-24-2018",47,"2018-19",5
+"424","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"425","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 5","Low","Nov-24-2018",47,"2018-19",5
+"426","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"427","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"428","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 3","Minimal","Nov-24-2018",47,"2018-19",3
+"429","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"430","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 5","Low","Nov-24-2018",47,"2018-19",5
+"431","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 6","Moderate","Nov-24-2018",47,"2018-19",6
+"432","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Nov-24-2018",47,"2018-19",1
+"433","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 6","Moderate","Dec-01-2018",48,"2018-19",6
+"434","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"435","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 4","Low","Dec-01-2018",48,"2018-19",4
+"436","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"437","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"438","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 6","Moderate","Dec-01-2018",48,"2018-19",6
+"439","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"440","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"441","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"442","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"443","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 8","High","Dec-01-2018",48,"2018-19",8
+"444","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"445","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"446","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"447","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"448","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"449","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"450","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"451","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 9","High","Dec-01-2018",48,"2018-19",9
+"452","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"453","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"454","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"455","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"456","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"457","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 4","Low","Dec-01-2018",48,"2018-19",4
+"458","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"459","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"460","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"461","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"462","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"463","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 4","Low","Dec-01-2018",48,"2018-19",4
+"464","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"465","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"466","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"467","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"468","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"469","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"470","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 2","Minimal","Dec-01-2018",48,"2018-19",2
+"471","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"472","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"473","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 6","Moderate","Dec-01-2018",48,"2018-19",6
+"474","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"475","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"476","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"477","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 4","Low","Dec-01-2018",48,"2018-19",4
+"478","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"479","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 5","Low","Dec-01-2018",48,"2018-19",5
+"480","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"481","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"482","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"483","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"484","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 4","Low","Dec-01-2018",48,"2018-19",4
+"485","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 3","Minimal","Dec-01-2018",48,"2018-19",3
+"486","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Dec-01-2018",48,"2018-19",1
+"487","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 5","Low","Dec-08-2018",49,"2018-19",5
+"488","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"489","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 4","Low","Dec-08-2018",49,"2018-19",4
+"490","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"491","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 3","Minimal","Dec-08-2018",49,"2018-19",3
+"492","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 7","Moderate","Dec-08-2018",49,"2018-19",7
+"493","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 5","Low","Dec-08-2018",49,"2018-19",5
+"494","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"495","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 4","Low","Dec-08-2018",49,"2018-19",4
+"496","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"497","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 8","High","Dec-08-2018",49,"2018-19",8
+"498","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"499","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"500","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"501","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"502","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"503","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"504","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 4","Low","Dec-08-2018",49,"2018-19",4
+"505","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 7","Moderate","Dec-08-2018",49,"2018-19",7
+"506","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"507","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"508","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"509","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"510","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"511","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 4","Low","Dec-08-2018",49,"2018-19",4
+"512","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 3","Minimal","Dec-08-2018",49,"2018-19",3
+"513","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"514","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"515","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"516","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"517","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 5","Low","Dec-08-2018",49,"2018-19",5
+"518","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"519","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"520","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 3","Minimal","Dec-08-2018",49,"2018-19",3
+"521","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"522","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"523","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 4","Low","Dec-08-2018",49,"2018-19",4
+"524","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"525","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 3","Minimal","Dec-08-2018",49,"2018-19",3
+"526","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"527","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 5","Low","Dec-08-2018",49,"2018-19",5
+"528","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"529","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"530","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 3","Minimal","Dec-08-2018",49,"2018-19",3
+"531","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 4","Low","Dec-08-2018",49,"2018-19",4
+"532","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"533","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 5","Low","Dec-08-2018",49,"2018-19",5
+"534","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"535","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"536","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 2","Minimal","Dec-08-2018",49,"2018-19",2
+"537","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"538","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 5","Low","Dec-08-2018",49,"2018-19",5
+"539","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 7","Moderate","Dec-08-2018",49,"2018-19",7
+"540","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Dec-08-2018",49,"2018-19",1
+"541","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 8","High","Dec-15-2018",50,"2018-19",8
+"542","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"543","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 6","Moderate","Dec-15-2018",50,"2018-19",6
+"544","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 5","Low","Dec-15-2018",50,"2018-19",5
+"545","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"546","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 10","High","Dec-15-2018",50,"2018-19",10
+"547","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"548","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"549","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"550","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"551","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 10","High","Dec-15-2018",50,"2018-19",10
+"552","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"553","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"554","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"555","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"556","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"557","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"558","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 6","Moderate","Dec-15-2018",50,"2018-19",6
+"559","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 7","Moderate","Dec-15-2018",50,"2018-19",7
+"560","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"561","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"562","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"563","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"564","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"565","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"566","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"567","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"568","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"569","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"570","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"571","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 7","Moderate","Dec-15-2018",50,"2018-19",7
+"572","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"573","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"574","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"575","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"576","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"577","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 5","Low","Dec-15-2018",50,"2018-19",5
+"578","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"579","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"580","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"581","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 7","Moderate","Dec-15-2018",50,"2018-19",7
+"582","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"583","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"584","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 5","Low","Dec-15-2018",50,"2018-19",5
+"585","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 4","Low","Dec-15-2018",50,"2018-19",4
+"586","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"587","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 6","Moderate","Dec-15-2018",50,"2018-19",6
+"588","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"589","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"590","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 3","Minimal","Dec-15-2018",50,"2018-19",3
+"591","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 2","Minimal","Dec-15-2018",50,"2018-19",2
+"592","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 6","Moderate","Dec-15-2018",50,"2018-19",6
+"593","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 7","Moderate","Dec-15-2018",50,"2018-19",7
+"594","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Dec-15-2018",50,"2018-19",1
+"595","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 9","High","Dec-22-2018",51,"2018-19",9
+"596","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 2","Minimal","Dec-22-2018",51,"2018-19",2
+"597","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 7","Moderate","Dec-22-2018",51,"2018-19",7
+"598","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 6","Moderate","Dec-22-2018",51,"2018-19",6
+"599","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 5","Low","Dec-22-2018",51,"2018-19",5
+"600","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 10","High","Dec-22-2018",51,"2018-19",10
+"601","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 5","Low","Dec-22-2018",51,"2018-19",5
+"602","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 2","Minimal","Dec-22-2018",51,"2018-19",2
+"603","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 5","Low","Dec-22-2018",51,"2018-19",5
+"604","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 3","Minimal","Dec-22-2018",51,"2018-19",3
+"605","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 10","High","Dec-22-2018",51,"2018-19",10
+"606","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"607","Idaho","http://flu.idaho.gov","Influenza","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"608","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 4","Low","Dec-22-2018",51,"2018-19",4
+"609","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 7","Moderate","Dec-22-2018",51,"2018-19",7
+"610","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"611","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 3","Minimal","Dec-22-2018",51,"2018-19",3
+"612","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 8","High","Dec-22-2018",51,"2018-19",8
+"613","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 8","High","Dec-22-2018",51,"2018-19",8
+"614","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"615","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 3","Minimal","Dec-22-2018",51,"2018-19",3
+"616","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 5","Low","Dec-22-2018",51,"2018-19",5
+"617","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 3","Minimal","Dec-22-2018",51,"2018-19",3
+"618","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 4","Low","Dec-22-2018",51,"2018-19",4
+"619","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 7","Moderate","Dec-22-2018",51,"2018-19",7
+"620","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 5","Low","Dec-22-2018",51,"2018-19",5
+"621","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"622","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 9","High","Dec-22-2018",51,"2018-19",9
+"623","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 6","Moderate","Dec-22-2018",51,"2018-19",6
+"624","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"625","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 9","High","Dec-22-2018",51,"2018-19",9
+"626","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 10","High","Dec-22-2018",51,"2018-19",10
+"627","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 5","Low","Dec-22-2018",51,"2018-19",5
+"628","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 4","Low","Dec-22-2018",51,"2018-19",4
+"629","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"630","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"631","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 7","Moderate","Dec-22-2018",51,"2018-19",7
+"632","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 3","Minimal","Dec-22-2018",51,"2018-19",3
+"633","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 5","Low","Dec-22-2018",51,"2018-19",5
+"634","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 2","Minimal","Dec-22-2018",51,"2018-19",2
+"635","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 9","High","Dec-22-2018",51,"2018-19",9
+"636","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"637","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"638","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 7","Moderate","Dec-22-2018",51,"2018-19",7
+"639","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 6","Moderate","Dec-22-2018",51,"2018-19",6
+"640","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 2","Minimal","Dec-22-2018",51,"2018-19",2
+"641","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 6","Moderate","Dec-22-2018",51,"2018-19",6
+"642","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"643","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 2","Minimal","Dec-22-2018",51,"2018-19",2
+"644","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 3","Minimal","Dec-22-2018",51,"2018-19",3
+"645","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"646","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 8","High","Dec-22-2018",51,"2018-19",8
+"647","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 9","High","Dec-22-2018",51,"2018-19",9
+"648","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Dec-22-2018",51,"2018-19",1
+"649","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 10","High","Dec-29-2018",52,"2018-19",10
+"650","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 3","Minimal","Dec-29-2018",52,"2018-19",3
+"651","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 9","High","Dec-29-2018",52,"2018-19",9
+"652","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 7","Moderate","Dec-29-2018",52,"2018-19",7
+"653","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 6","Moderate","Dec-29-2018",52,"2018-19",6
+"654","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 10","High","Dec-29-2018",52,"2018-19",10
+"655","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 6","Moderate","Dec-29-2018",52,"2018-19",6
+"656","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Dec-29-2018",52,"2018-19",1
+"657","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 5","Low","Dec-29-2018",52,"2018-19",5
+"658","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 5","Low","Dec-29-2018",52,"2018-19",5
+"659","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 10","High","Dec-29-2018",52,"2018-19",10
+"660","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Dec-29-2018",52,"2018-19",1
+"661","Idaho","http://flu.idaho.gov","Influenza","Level 3","Minimal","Dec-29-2018",52,"2018-19",3
+"662","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 7","Moderate","Dec-29-2018",52,"2018-19",7
+"663","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 9","High","Dec-29-2018",52,"2018-19",9
+"664","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 4","Low","Dec-29-2018",52,"2018-19",4
+"665","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 7","Moderate","Dec-29-2018",52,"2018-19",7
+"666","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 10","High","Dec-29-2018",52,"2018-19",10
+"667","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 10","High","Dec-29-2018",52,"2018-19",10
+"668","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 2","Minimal","Dec-29-2018",52,"2018-19",2
+"669","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 4","Low","Dec-29-2018",52,"2018-19",4
+"670","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 8","High","Dec-29-2018",52,"2018-19",8
+"671","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 4","Low","Dec-29-2018",52,"2018-19",4
+"672","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 6","Moderate","Dec-29-2018",52,"2018-19",6
+"673","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 10","High","Dec-29-2018",52,"2018-19",10
+"674","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 7","Moderate","Dec-29-2018",52,"2018-19",7
+"675","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 3","Minimal","Dec-29-2018",52,"2018-19",3
+"676","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 10","High","Dec-29-2018",52,"2018-19",10
+"677","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 8","High","Dec-29-2018",52,"2018-19",8
+"678","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 2","Minimal","Dec-29-2018",52,"2018-19",2
+"679","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 10","High","Dec-29-2018",52,"2018-19",10
+"680","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 10","High","Dec-29-2018",52,"2018-19",10
+"681","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 7","Moderate","Dec-29-2018",52,"2018-19",7
+"682","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 7","Moderate","Dec-29-2018",52,"2018-19",7
+"683","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 3","Minimal","Dec-29-2018",52,"2018-19",3
+"684","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 4","Low","Dec-29-2018",52,"2018-19",4
+"685","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 10","High","Dec-29-2018",52,"2018-19",10
+"686","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 4","Low","Dec-29-2018",52,"2018-19",4
+"687","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 7","Moderate","Dec-29-2018",52,"2018-19",7
+"688","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 6","Moderate","Dec-29-2018",52,"2018-19",6
+"689","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 10","High","Dec-29-2018",52,"2018-19",10
+"690","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Dec-29-2018",52,"2018-19",1
+"691","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 5","Low","Dec-29-2018",52,"2018-19",5
+"692","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 10","High","Dec-29-2018",52,"2018-19",10
+"693","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 10","High","Dec-29-2018",52,"2018-19",10
+"694","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 6","Moderate","Dec-29-2018",52,"2018-19",6
+"695","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 8","High","Dec-29-2018",52,"2018-19",8
+"696","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 2","Minimal","Dec-29-2018",52,"2018-19",2
+"697","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 2","Minimal","Dec-29-2018",52,"2018-19",2
+"698","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 4","Low","Dec-29-2018",52,"2018-19",4
+"699","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 5","Low","Dec-29-2018",52,"2018-19",5
+"700","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 10","High","Dec-29-2018",52,"2018-19",10
+"701","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 5","Low","Dec-29-2018",52,"2018-19",5
+"702","Virgin Islands","http://doh.vi.gov/","Influenza","Level 2","Minimal","Dec-29-2018",52,"2018-19",2
+"703","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 9","High","Jan-05-2019",1,"2018-19",9
+"704","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"705","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 8","High","Jan-05-2019",1,"2018-19",8
+"706","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 4","Low","Jan-05-2019",1,"2018-19",4
+"707","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 6","Moderate","Jan-05-2019",1,"2018-19",6
+"708","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 10","High","Jan-05-2019",1,"2018-19",10
+"709","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 7","Moderate","Jan-05-2019",1,"2018-19",7
+"710","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Jan-05-2019",1,"2018-19",1
+"711","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 4","Low","Jan-05-2019",1,"2018-19",4
+"712","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"713","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 10","High","Jan-05-2019",1,"2018-19",10
+"714","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 2","Minimal","Jan-05-2019",1,"2018-19",2
+"715","Idaho","http://flu.idaho.gov","Influenza","Level 2","Minimal","Jan-05-2019",1,"2018-19",2
+"716","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 6","Moderate","Jan-05-2019",1,"2018-19",6
+"717","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 7","Moderate","Jan-05-2019",1,"2018-19",7
+"718","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"719","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 6","Moderate","Jan-05-2019",1,"2018-19",6
+"720","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 8","High","Jan-05-2019",1,"2018-19",8
+"721","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 9","High","Jan-05-2019",1,"2018-19",9
+"722","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"723","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 7","Moderate","Jan-05-2019",1,"2018-19",7
+"724","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 7","Moderate","Jan-05-2019",1,"2018-19",7
+"725","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"726","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 5","Low","Jan-05-2019",1,"2018-19",5
+"727","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 6","Moderate","Jan-05-2019",1,"2018-19",6
+"728","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 5","Low","Jan-05-2019",1,"2018-19",5
+"729","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 2","Minimal","Jan-05-2019",1,"2018-19",2
+"730","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 10","High","Jan-05-2019",1,"2018-19",10
+"731","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 5","Low","Jan-05-2019",1,"2018-19",5
+"732","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 1","Minimal","Jan-05-2019",1,"2018-19",1
+"733","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 10","High","Jan-05-2019",1,"2018-19",10
+"734","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 10","High","Jan-05-2019",1,"2018-19",10
+"735","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 6","Moderate","Jan-05-2019",1,"2018-19",6
+"736","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 6","Moderate","Jan-05-2019",1,"2018-19",6
+"737","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"738","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Jan-05-2019",1,"2018-19",1
+"739","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 10","High","Jan-05-2019",1,"2018-19",10
+"740","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 5","Low","Jan-05-2019",1,"2018-19",5
+"741","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 7","Moderate","Jan-05-2019",1,"2018-19",7
+"742","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 4","Low","Jan-05-2019",1,"2018-19",4
+"743","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 10","High","Jan-05-2019",1,"2018-19",10
+"744","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 2","Minimal","Jan-05-2019",1,"2018-19",2
+"745","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 5","Low","Jan-05-2019",1,"2018-19",5
+"746","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 8","High","Jan-05-2019",1,"2018-19",8
+"747","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 9","High","Jan-05-2019",1,"2018-19",9
+"748","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 4","Low","Jan-05-2019",1,"2018-19",4
+"749","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 8","High","Jan-05-2019",1,"2018-19",8
+"750","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 2","Minimal","Jan-05-2019",1,"2018-19",2
+"751","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"752","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 4","Low","Jan-05-2019",1,"2018-19",4
+"753","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 3","Minimal","Jan-05-2019",1,"2018-19",3
+"754","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 9","High","Jan-05-2019",1,"2018-19",9
+"755","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 6","Moderate","Jan-05-2019",1,"2018-19",6
+"756","Virgin Islands","http://doh.vi.gov/","Influenza","Level 1","Minimal","Jan-05-2019",1,"2018-19",1
+"757","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"758","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 1","Minimal","Jan-12-2019",2,"2018-19",1
+"759","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 9","High","Jan-12-2019",2,"2018-19",9
+"760","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 2","Minimal","Jan-12-2019",2,"2018-19",2
+"761","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 5","Low","Jan-12-2019",2,"2018-19",5
+"762","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 10","High","Jan-12-2019",2,"2018-19",10
+"763","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"764","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Jan-12-2019",2,"2018-19",1
+"765","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 4","Low","Jan-12-2019",2,"2018-19",4
+"766","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 2","Minimal","Jan-12-2019",2,"2018-19",2
+"767","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 8","High","Jan-12-2019",2,"2018-19",8
+"768","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 3","Minimal","Jan-12-2019",2,"2018-19",3
+"769","Idaho","http://flu.idaho.gov","Influenza","Level 3","Minimal","Jan-12-2019",2,"2018-19",3
+"770","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 4","Low","Jan-12-2019",2,"2018-19",4
+"771","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 6","Moderate","Jan-12-2019",2,"2018-19",6
+"772","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 2","Minimal","Jan-12-2019",2,"2018-19",2
+"773","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 6","Moderate","Jan-12-2019",2,"2018-19",6
+"774","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 10","High","Jan-12-2019",2,"2018-19",10
+"775","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"776","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 3","Minimal","Jan-12-2019",2,"2018-19",3
+"777","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 4","Low","Jan-12-2019",2,"2018-19",4
+"778","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 6","Moderate","Jan-12-2019",2,"2018-19",6
+"779","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 2","Minimal","Jan-12-2019",2,"2018-19",2
+"780","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 10","High","Jan-12-2019",2,"2018-19",10
+"781","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 5","Low","Jan-12-2019",2,"2018-19",5
+"782","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 3","Minimal","Jan-12-2019",2,"2018-19",3
+"783","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 2","Minimal","Jan-12-2019",2,"2018-19",2
+"784","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 10","High","Jan-12-2019",2,"2018-19",10
+"785","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 6","Moderate","Jan-12-2019",2,"2018-19",6
+"786","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 8","High","Jan-12-2019",2,"2018-19",8
+"787","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 10","High","Jan-12-2019",2,"2018-19",10
+"788","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 10","High","Jan-12-2019",2,"2018-19",10
+"789","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 5","Low","Jan-12-2019",2,"2018-19",5
+"790","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 5","Low","Jan-12-2019",2,"2018-19",5
+"791","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 1","Minimal","Jan-12-2019",2,"2018-19",1
+"792","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Jan-12-2019",2,"2018-19",1
+"793","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 9","High","Jan-12-2019",2,"2018-19",9
+"794","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 3","Minimal","Jan-12-2019",2,"2018-19",3
+"795","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 5","Low","Jan-12-2019",2,"2018-19",5
+"796","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"797","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"798","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 1","Minimal","Jan-12-2019",2,"2018-19",1
+"799","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 1","Minimal","Jan-12-2019",2,"2018-19",1
+"800","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"801","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"802","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"803","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"804","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 2","Minimal","Jan-12-2019",2,"2018-19",2
+"805","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 4","Low","Jan-12-2019",2,"2018-19",4
+"806","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 4","Low","Jan-12-2019",2,"2018-19",4
+"807","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 3","Minimal","Jan-12-2019",2,"2018-19",3
+"808","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 7","Moderate","Jan-12-2019",2,"2018-19",7
+"809","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 2","Minimal","Jan-12-2019",2,"2018-19",2
+"810","Virgin Islands","http://doh.vi.gov/","Influenza","Level 3","Minimal","Jan-12-2019",2,"2018-19",3
+"811","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 10","High","Jan-19-2019",3,"2018-19",10
+"812","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"813","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 6","Moderate","Jan-19-2019",3,"2018-19",6
+"814","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 5","Low","Jan-19-2019",3,"2018-19",5
+"815","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"816","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 9","High","Jan-19-2019",3,"2018-19",9
+"817","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 8","High","Jan-19-2019",3,"2018-19",8
+"818","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Jan-19-2019",3,"2018-19",1
+"819","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"820","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 3","Minimal","Jan-19-2019",3,"2018-19",3
+"821","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 8","High","Jan-19-2019",3,"2018-19",8
+"822","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 1","Minimal","Jan-19-2019",3,"2018-19",1
+"823","Idaho","http://flu.idaho.gov","Influenza","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"824","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"825","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 9","High","Jan-19-2019",3,"2018-19",9
+"826","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"827","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 8","High","Jan-19-2019",3,"2018-19",8
+"828","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 10","High","Jan-19-2019",3,"2018-19",10
+"829","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 8","High","Jan-19-2019",3,"2018-19",8
+"830","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 3","Minimal","Jan-19-2019",3,"2018-19",3
+"831","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 9","High","Jan-19-2019",3,"2018-19",9
+"832","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 7","Moderate","Jan-19-2019",3,"2018-19",7
+"833","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 3","Minimal","Jan-19-2019",3,"2018-19",3
+"834","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 6","Moderate","Jan-19-2019",3,"2018-19",6
+"835","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 6","Moderate","Jan-19-2019",3,"2018-19",6
+"836","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 5","Low","Jan-19-2019",3,"2018-19",5
+"837","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 2","Minimal","Jan-19-2019",3,"2018-19",2
+"838","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 10","High","Jan-19-2019",3,"2018-19",10
+"839","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 5","Low","Jan-19-2019",3,"2018-19",5
+"840","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 7","Moderate","Jan-19-2019",3,"2018-19",7
+"841","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 10","High","Jan-19-2019",3,"2018-19",10
+"842","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 10","High","Jan-19-2019",3,"2018-19",10
+"843","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 7","Moderate","Jan-19-2019",3,"2018-19",7
+"844","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 6","Moderate","Jan-19-2019",3,"2018-19",6
+"845","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 3","Minimal","Jan-19-2019",3,"2018-19",3
+"846","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 1","Minimal","Jan-19-2019",3,"2018-19",1
+"847","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 10","High","Jan-19-2019",3,"2018-19",10
+"848","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"849","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 5","Low","Jan-19-2019",3,"2018-19",5
+"850","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 9","High","Jan-19-2019",3,"2018-19",9
+"851","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 9","High","Jan-19-2019",3,"2018-19",9
+"852","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 3","Minimal","Jan-19-2019",3,"2018-19",3
+"853","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 2","Minimal","Jan-19-2019",3,"2018-19",2
+"854","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 10","High","Jan-19-2019",3,"2018-19",10
+"855","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 7","Moderate","Jan-19-2019",3,"2018-19",7
+"856","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 7","Moderate","Jan-19-2019",3,"2018-19",7
+"857","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 8","High","Jan-19-2019",3,"2018-19",8
+"858","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 3","Minimal","Jan-19-2019",3,"2018-19",3
+"859","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 5","Low","Jan-19-2019",3,"2018-19",5
+"860","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 4","Low","Jan-19-2019",3,"2018-19",4
+"861","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 5","Low","Jan-19-2019",3,"2018-19",5
+"862","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 9","High","Jan-19-2019",3,"2018-19",9
+"863","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 6","Moderate","Jan-19-2019",3,"2018-19",6
+"864","Virgin Islands","http://doh.vi.gov/","Influenza","Level 6","Moderate","Jan-19-2019",3,"2018-19",6
+"865","Alabama","http://adph.org/influenza/","Influenza Surveillance","Level 10","High","Jan-26-2019",4,"2018-19",10
+"866","Alaska","http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx%20","Influenza Surveillance Report","Level 10","High","Jan-26-2019",4,"2018-19",10
+"867","Arizona","http://www.azdhs.gov/phs/oids/epi/flu/index.htm","Influenza & RSV Surveillance","Level 6","Moderate","Jan-26-2019",4,"2018-19",6
+"868","Arkansas","http://www.healthy.arkansas.gov/programs-services/topics/influenza","Communicable Disease and Immunizations","Level 10","High","Jan-26-2019",4,"2018-19",10
+"869","California","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx","Influenza (Flu)","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"870","Colorado","https://www.colorado.gov/pacific/cdphe/influenza","Influenza Surveillance","Level 9","High","Jan-26-2019",4,"2018-19",9
+"871","Connecticut","http://www.portal.ct.gov/DPH/Infectious-Diseases/Flu/Influenza-Surveillance-and-Statistics","Flu Statistics","Level 8","High","Jan-26-2019",4,"2018-19",8
+"872","Delaware","http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html","Weekly Influenza Surveillance Reports","Level 1","Minimal","Jan-26-2019",4,"2018-19",1
+"873","District of Columbia","http://doh.dc.gov/page/influenza-season","Influenza Information","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"874","Florida","http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html%20","Weekly Influenza Surveillance Reports","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"875","Georgia","https://dph.georgia.gov/flu-activity-georgia","Weekly Influenza Surveillance in Georgia","Level 9","High","Jan-26-2019",4,"2018-19",9
+"876","Hawaii","http://health.hawaii.gov/docd/resources/reports/influenza-reports/","Hawaii's Influenza Surveillance Program","Level 5","Low","Jan-26-2019",4,"2018-19",5
+"877","Idaho","http://flu.idaho.gov","Influenza","Level 5","Low","Jan-26-2019",4,"2018-19",5
+"878","Illinois","http://dph.illinois.gov/topics-services/diseases-and-conditions/influenza/surveillance","Seasonal Influenza Surveillance Reports","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"879","Indiana","http://www.in.gov/isdh/22104.htm","Influenza in Indiana","Level 8","High","Jan-26-2019",4,"2018-19",8
+"880","Iowa","http://idph.iowa.gov/influenza/surveillance","Iowa Influenza Surveillance Network","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"881","Kansas","http://www.kdheks.gov/flu/surveillance.htm","Influenza Information","Level 6","Moderate","Jan-26-2019",4,"2018-19",6
+"882","Kentucky","https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/influenza.aspx","Influenza - Flu","Level 10","High","Jan-26-2019",4,"2018-19",10
+"883","Louisiana","http://new.dhh.louisiana.gov/index.cfm/page/1591","Influenza","Level 10","High","Jan-26-2019",4,"2018-19",10
+"884","Maine","http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml","Weekly Surveillance Updates","Level 5","Low","Jan-26-2019",4,"2018-19",5
+"885","Maryland","https://phpa.health.maryland.gov/influenza/fluwatch","Influenza Surveillance","Level 7","Moderate","Jan-26-2019",4,"2018-19",7
+"886","Massachusetts","http://blog.mass.gov/publichealth/category/flu-facts/","Influenza Surveillance Data","Level 8","High","Jan-26-2019",4,"2018-19",8
+"887","Michigan","http://www.michigan.gov/mdch/0%252c1607%252c7-132-2940_2955_22779_40563_48357-191722--%252c00.html","Influenza Activity and Surveillance","Level 3","Minimal","Jan-26-2019",4,"2018-19",3
+"888","Minnesota","http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html","Weekly Influenza Activity: Statistics","Level 8","High","Jan-26-2019",4,"2018-19",8
+"889","Mississippi","http://www.msdh.state.ms.us/msdhsite/_static/14%252c0%252c199%252c230.html","Mississippi Flu Surveillance and Influenza-Like Illness Reports","Level 10","High","Jan-26-2019",4,"2018-19",10
+"890","Missouri","http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php","Influenza Data & Statistical Reports ","Level 6","Moderate","Jan-26-2019",4,"2018-19",6
+"891","Montana","http://dphhs.mt.gov/publichealth/cdepi/diseases/influenza.aspx","Influenza: What You Need to Know","Level 3","Minimal","Jan-26-2019",4,"2018-19",3
+"892","Nebraska","http://dhhs.ne.gov/publichealth/Pages/flu.aspx","Weekly Flu Report","Level 10","High","Jan-26-2019",4,"2018-19",10
+"893","Nevada","http://dpbh.nv.gov/Programs/OPHIE/dta/Publications/Public_Health_Informatics_and_Epidemiology_(OPHIE)_-_Publications/","Influenza (Flu): Surveillance, News Releases and Brochures","Level 5","Low","Jan-26-2019",4,"2018-19",5
+"894","New Hampshire","http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm","Influenza Control and Surveillance","Level 5","Low","Jan-26-2019",4,"2018-19",5
+"895","New Jersey","http://www.nj.gov/health/cd/topics/flu.shtml","Seasonal Influenza - Surveillance","Level 10","High","Jan-26-2019",4,"2018-19",10
+"896","New Mexico","https://nmhealth.org/about/erd/ideb/isp/","Flu in New Mexico","Level 10","High","Jan-26-2019",4,"2018-19",10
+"897","New York","http://www.health.ny.gov/diseases/communicable/influenza/surveillance/","Influenza Activity, Surveillance and Reports","Level 8","High","Jan-26-2019",4,"2018-19",8
+"898","North Carolina","http://www.flu.nc.gov/%20","North Carolina Influenza Update","Level 9","High","Jan-26-2019",4,"2018-19",9
+"899","North Dakota","http://www.ndflu.com/default.aspx","Influenza","Level 2","Minimal","Jan-26-2019",4,"2018-19",2
+"900","Ohio","http://www.flu.ohio.gov%20","Influenza Information","Level 2","Minimal","Jan-26-2019",4,"2018-19",2
+"901","Oklahoma","https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html","Influenza Information","Level 10","High","Jan-26-2019",4,"2018-19",10
+"902","Oregon","http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx","Influenza Disease Surveillance Data","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"903","Pennsylvania","http://www.flufreepa.com","Influenza Weekly Report ","Level 7","Moderate","Jan-26-2019",4,"2018-19",7
+"904","Rhode Island","http://www.health.ri.gov/data/flu/index.php","Influenza Surveillance","Level 10","High","Jan-26-2019",4,"2018-19",10
+"905","South Carolina","http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/","Influenza Activity and Surveillance","Level 10","High","Jan-26-2019",4,"2018-19",10
+"906","South Dakota","http://doh.sd.gov/diseases/infectious/flu/default.aspx","Influenza Information","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"907","Tennessee","http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html","Influenza-Like Illness Surveillance Summary Archive","Level 6","Moderate","Jan-26-2019",4,"2018-19",6
+"908","Texas","http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/","Influenza Surveillance","Level 10","High","Jan-26-2019",4,"2018-19",10
+"909","Utah","http://health.utah.gov/epi/diseases/influenza/surveillance/index.html","Seasonal Influenza Weekly Update","Level 9","High","Jan-26-2019",4,"2018-19",9
+"910","Vermont","http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance","Flu Activity","Level 9","High","Jan-26-2019",4,"2018-19",9
+"911","Virginia","http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/","Virginia Weekly Influenza Activity Report","Level 10","High","Jan-26-2019",4,"2018-19",10
+"912","Washington","http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData","Influenza Update","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"913","West Virginia","http://www.dhhr.wv.gov/oeps/disease/flu/Pages/fluSurveillance.aspx","Current Influenza Surveillance","Level 7","Moderate","Jan-26-2019",4,"2018-19",7
+"914","Wisconsin","http://www.dhs.wisconsin.gov/communicable/influenza/index.htm","Tracking Influenza in Wisconsin","Level 4","Low","Jan-26-2019",4,"2018-19",4
+"915","Wyoming","https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/","Influenza","Level 7","Moderate","Jan-26-2019",4,"2018-19",7
+"916","New York City","http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page","Surveillance Data","Level 9","High","Jan-26-2019",4,"2018-19",9
+"917","Puerto Rico","http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/Influenza.aspx","Puerto Rico Departamento de Salud","Level 6","Moderate","Jan-26-2019",4,"2018-19",6
+"918","Virgin Islands","http://doh.vi.gov/","Influenza","Level 3","Minimal","Jan-26-2019",4,"2018-19",3
